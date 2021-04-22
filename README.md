@@ -21,7 +21,6 @@ Big fan of cryptocurrencies tho...
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure Logo" width="50" height="50"/>
 
