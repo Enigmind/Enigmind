@@ -14,7 +14,7 @@ I like to create apps, bots, and other things sometimes useless but fun ! Also i
 
 I'm invested in privacy on the Internet and I like to find and use FOSS alternative to privacy nightmare tools (like Google/Facebook).
 
-Big fan of cryptocurrencies tho...
+Big fan of blockcains projects too...
 
 ---
 ## Technos
