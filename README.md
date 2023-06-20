@@ -24,9 +24,6 @@ Big fan of blockchains projects too...
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure Logo" width="50" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="btc Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="eth Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/monero.svg" alt="monero Logo" width="50" height="50"/>
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
