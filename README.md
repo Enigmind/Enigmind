@@ -5,10 +5,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Enigmind, a DevOps Achitect!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Enigmind, DevOps Achitect!
 ---
 
-A full stack developer specialized in Python and NodeJS. Ops using Docker/docker-compose, Kubernetes, Gitlab CI and Azure cloud platform.
+Full stack developer specialized in Python and NodeJS.
+Ops using Docker/docker-compose, Kubernetes, Gitlab CI and Azure cloud platform.
 
 I like to create apps, bots, and other things sometimes useless but fun ! Also interested in infrastructure, automation and server management. 
 
